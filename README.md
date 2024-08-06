@@ -38,5 +38,5 @@
 <p>
     <strong>Summary:</strong> This class encapsulates the core functionality of the Weather App. It includes methods to fetch weather data and location coordinates, convert weather codes into readable weather conditions, and manage API requests. This class acts as the bridge between the GUI and the external weather data source, ensuring that weather information is retrieved and displayed accurately.
 </p>
-<h3>2.1. Terminalapp </h3>
-<p>This class is for practice purposes you can display the weather details and other extra details on terminal.
+<h3>2.1. TerminalApp </h3>
+<p>This class is for practice purposes you can display the weather details and other extra details on terminal.</p>
