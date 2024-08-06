@@ -18,12 +18,12 @@
 
 <h2>Class Summaries</h2>
 
-<h3>3.1. Main</h3>
+<h3>1.1. Main</h3>
 <p>
     <strong>Description:</strong> The Main class serves as the entry point for the Weather App. It initializes the GUI and displays the main application window.
 </p>
 
-<h3>3.2. WeatherAppGui</h3>
+<h3>1.2. WeatherAppGui</h3>
 <p>
     <strong>Description:</strong> The WeatherAppGui class represents the graphical user interface (GUI) of the Weather App. It is responsible for displaying weather information for a specified location.
 </p>
@@ -31,10 +31,12 @@
     <strong>Summary:</strong> This class handles the layout and display of GUI components, including text fields, labels, buttons, and images. It also implements the user interface for entering a location and updating the weather information based on user input.
 </p>
 
-<h3>3.3. WeatherApp</h3>
+<h3>1.3. WeatherApp</h3>
 <p>
     <strong>Description:</strong> The WeatherApp class contains the backend logic for fetching weather data from an external API. It retrieves geographic coordinates for a location, fetches weather data for that location, and provides methods to convert weather codes.
 </p>
 <p>
     <strong>Summary:</strong> This class encapsulates the core functionality of the Weather App. It includes methods to fetch weather data and location coordinates, convert weather codes into readable weather conditions, and manage API requests. This class acts as the bridge between the GUI and the external weather data source, ensuring that weather information is retrieved and displayed accurately.
 </p>
+<h3>2.1. Terminalapp </h3>
+<p>This class is for practice purposes you can display the weather details and other extra details on terminal.
